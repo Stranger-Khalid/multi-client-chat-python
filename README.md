@@ -91,10 +91,6 @@ Enter a unique username for each client.
 
 ## 📸 Screenshots
 
-![alt text](servers.png)
-![alt text](clients.png)
-![alt text](private-message.png)
-
 ### Server Running
 
 ![Server](screenshots/server.png)
